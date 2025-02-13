@@ -120,13 +120,13 @@ label:hover {
 }
 
 .answer--yes {
-	background-image: url("https://media.giphy.com/media/a3IWyhkEC0p32/giphy.gif");
+	background-image: url("https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 .answer--no {
-	background-image: url("https://media.giphy.com/media/QBEhpJHrv7poQ/giphy.gif");
+	background-image: url("https://giphy.com/gifs/robert-downey-jr-cats-ASvQ3A2Q7blzq");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
