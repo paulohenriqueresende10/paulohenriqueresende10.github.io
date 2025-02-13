@@ -120,13 +120,13 @@ label:hover {
 }
 
 .answer--yes {
-	background-image: url("https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV");
+	background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFqM2Z2Znd6bnBoenMxbTJpZno5bmU5NW4yNnBucnZxcmJieWp3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 .answer--no {
-	background-image: url("https://giphy.com/gifs/robert-downey-jr-cats-ASvQ3A2Q7blzq");
+	background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnprM3BpemNlM2xuaHV0eXJhOXQwcDF1OXRoam5vbXI4NDhrZ3hrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASvQ3A2Q7blzq/giphy.gif");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
